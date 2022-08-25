@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/LaviniaNobre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaviniaNobre&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaNobre&layout=compact&langs_count=6&theme=noctis_minimus"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaviniaNobre&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaNobre&layout=compact&langs_count=6&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
